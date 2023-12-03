@@ -4,7 +4,6 @@ from hanspell import spell_checker
 from hanspell.constants import CheckResult
 from textwrap import dedent as trim
 
-
 class SpellCheckerTests(unittest.TestCase):
     def setUp(self):
         pass
